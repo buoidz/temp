@@ -1,0 +1,14 @@
+{
+    "Data Loader": "DataLoaderORL",
+    "Noise Method": "salt_and_pepper",
+    "Noise Arguments": {
+        "p": 0.05,
+        "r": 0.2
+    },
+    "NMF Method": "L21",
+    "hidden_d": 30,
+    "Proper K-Folds": true,
+    "Number of Folds": 5,
+    "Split Ratio": 0.2,
+    "seed": 4328
+}

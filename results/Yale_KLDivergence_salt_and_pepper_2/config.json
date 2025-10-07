@@ -1,0 +1,14 @@
+{
+    "Data Loader": "DataLoaderYale",
+    "Noise Method": "salt_and_pepper",
+    "Noise Arguments": {
+        "p": 0.02,
+        "r": 0.8
+    },
+    "NMF Method": "KLDivergence",
+    "hidden_d": 30,
+    "Proper K-Folds": true,
+    "Number of Folds": 5,
+    "Split Ratio": 0.2,
+    "seed": 4328
+}

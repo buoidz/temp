@@ -1,0 +1,15 @@
+{
+    "Data Loader": "DataLoaderORL",
+    "Noise Method": "gaussian_noise",
+    "Noise Arguments": {
+        "p": 1,
+        "sd": 0.06,
+        "mu": 0
+    },
+    "NMF Method": "L21",
+    "hidden_d": 30,
+    "Proper K-Folds": true,
+    "Number of Folds": 5,
+    "Split Ratio": 0.2,
+    "seed": 4328
+}
